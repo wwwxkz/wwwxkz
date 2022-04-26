@@ -27,6 +27,7 @@
     - Web -------->
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img align="center" alt="wordpress" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div><br/>
 <div>
     - Mobile ----->
