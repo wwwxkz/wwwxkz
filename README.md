@@ -1,10 +1,10 @@
 
 # Worth checking out
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwwxkz&repo=PluginPDFFromFormWP)](https://github.com/wwwxkz/PluginPDFFromFormWP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwwxkz&repo=viajaNet-website)](https://github.com/wwwxkz/viajaNet-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwwxkz&repo=PluginFormWP)](https://github.com/wwwxkz/PluginFormWP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwwxkz&repo=FlowpodcastForum)](https://github.com/wwwxkz/FlowpodcastForum)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=PluginPDFFromFormWP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/PluginPDFFromFormWP)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=viajaNet-website&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/viajaNet-website)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=PluginFormWP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/PluginFormWP)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=FlowpodcastForum&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/FlowpodcastForum)
 
 
 
@@ -14,7 +14,7 @@
 - Studying Electrical Engineering and Information System;
 - PHP, Javascript, Dart and Embedded Systems expert;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwxkz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wwwxkz&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skillset
