@@ -1,13 +1,3 @@
-
-# Worth checking out
-
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=PluginPDFFromFormWP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/PluginPDFFromFormWP)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=viajaNet-website&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/viajaNet-website)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=PluginFormWP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/PluginFormWP)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wwwxkz&repo=FlowpodcastForum&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wwwxkz/FlowpodcastForum)
-
-
-
 # Info
 
 - Working at SNA with Wordpress and Flutter;
