@@ -13,7 +13,7 @@ fn main() {
 }
 ```
 
-### Summary 
+## Summary 
 <!--
 <img align="center" alt="windows" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wwwxkz&theme=vue"/>
 <img align="center" alt="windows" src="https://github-readme-stats.vercel.app/api?username=wwwxkz"/>
@@ -21,7 +21,7 @@ fn main() {
 -->
 <img align="center" alt="windows" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwxkz"/>
 
-### Languages
+## Languages
 <div>
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
@@ -36,7 +36,7 @@ fn main() {
     <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
-### Backend
+## Backend
 <div>
     <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -45,7 +45,7 @@ fn main() {
     <img align="center" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
 
-### Mobile
+## Mobile
 <div>
     <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -53,14 +53,14 @@ fn main() {
     <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-### CMS
+## CMS
 <div>
     <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
 </div>
 
-### Frontend
+## Frontend
 <div>
     <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -70,7 +70,7 @@ fn main() {
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-### Databases
+## Databases
 <div>
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -81,14 +81,14 @@ fn main() {
 </div>
 
 <!--
-### Terminals
+## Terminals
 <div>
     <img align="center" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 </div>
 -->
 
-### Dev tools
+## Dev tools
 <div>
     <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -101,7 +101,7 @@ fn main() {
 </div>
 
 <!--
-### Systems
+## Systems
 <div>
     <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
@@ -116,7 +116,7 @@ fn main() {
 -->
 
 <!--
-### Office stack
+## Office stack
 <div>
     <img align="center" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
@@ -129,7 +129,7 @@ fn main() {
 -->
 
 <!--
-### Data analysis
+## Data analysis
 <div>
     <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -137,7 +137,7 @@ fn main() {
 -->
 
 <!--
-### Text editor; IDE
+## Text editor; IDE
 <div>
     <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
@@ -150,7 +150,7 @@ fn main() {
 -->
 
 <!--
-### Team work
+## Team work
 <div>
     <img align="center" src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
@@ -166,7 +166,7 @@ fn main() {
 -->
 
 <!--
-### Learning
+## Learning
 <div>
     <img align="center" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/>
@@ -179,7 +179,7 @@ fn main() {
 -->
 
 <!--
-### Design
+## Design
 <div>
     <img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
@@ -190,7 +190,7 @@ fn main() {
 -->
 
 <!--
-### 3D; Game development
+## 3D; Game development
 <div>
     <img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -198,7 +198,7 @@ fn main() {
 -->
 
 <!--
-### Blockchain
+## Blockchain
 <div>
     <img align="center" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
@@ -206,7 +206,7 @@ fn main() {
 -->
 
 <!--
-### Desktop
+## Desktop
 <img align="center" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 -->
 
