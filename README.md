@@ -2,6 +2,7 @@
 
 - Working at SNA with Wordpress and Flutter as Dev/Sysadmin;
 - Studying Electrical Engineering and Information System;
+- Rust enthusiast;
 - PHP, Python, Javascript, and Embedded Systems expert;
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wwwxkz&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,6 +18,7 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align="center" alt="rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
 </div><br/>
 <div>
     - Database --->
@@ -38,15 +40,17 @@
     - Web Back -->
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img align="center" alt="salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div><br/>
 <div>
-    - Mobile ----->
+    - Mobile ------>
     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div><br/>
 <div>
-    - OS --------->
+    - OS ---------->
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
 </div><br/>
