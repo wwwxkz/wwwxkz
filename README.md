@@ -1,5 +1,5 @@
 # Info
-- Working at SNA with Wordpress and Flutter as Dev/Sysadmin
+- Working at TECNOCOMP as Sysadmin/Helpdesk N1-N3
 - Studying Computer Engineering
 
 ## Languages
