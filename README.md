@@ -1,18 +1,25 @@
 # Info
-- Working at TECNOCOMP as Sysadmin/Helpdesk N1-N3
-- Studying Computer Engineering
+- Working at 
+  - Tata Consultancy Services
+    - Developer 
+  - TECNOCOMP
+    - Bilingual Help Desk Analyst
+- Studying
+  - UNIFATECIE
+    - Computer Engineering
+    - Chemical Processes
 
 ## Languages
 - Rust, C++, Dart 
-<br><b>(In love)</b>
+  - In love
 - PHP, Python, Javascript
-<br><b>(Countless hours coding)</b>
+  - Countless hours coding
 - Go, Shellscript 
-<br><b>(Get things done quickly)</b>
+  - Get things done quickly
 - Typescript, Kotlin 
-<br><b>(New stantards)</b>
+  - New stantards
 - Java, C
-<br><b>(Robust and huge ecosystem)</b>
+  - Robust and huge ecosystem
 
 ## Backend / Frontend / CMS / Mobile
 - Django, Node, Express
@@ -35,3 +42,5 @@
   
 - E-mail: jobs.wxkz@gmail.com
 - Cell: +55 (11) 964665563
+- Fluent: PT, EN, ES, FR
+- Learning: HU, DE, JP
