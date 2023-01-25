@@ -3,7 +3,7 @@
   - Tata Consultancy Services
     - Developer 
   - TECNOCOMP
-    - Bilingual Help Desk Analyst
+    - Bilingual IT Support Analyst
 - Studying
   - UNIFATECIE
     - Computer Engineering
