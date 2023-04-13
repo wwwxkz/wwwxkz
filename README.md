@@ -2,8 +2,6 @@
 - Working at 
   - Tata Consultancy Services
     - Developer 
-  - TECNOCOMP
-    - Bilingual IT Support Analyst
 - Studying
   - UNIFATECIE
     - Computer Engineering
