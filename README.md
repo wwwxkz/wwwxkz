@@ -3,6 +3,8 @@
   - Tata Consultancy Services
     - Developer 
 - Studying
+  - University of Pécs
+    - Electrical Engineering  
   - UNIFATECIE
     - Computer Engineering
     - Chemical Processes
