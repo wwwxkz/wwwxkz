@@ -1,7 +1,4 @@
 # Info
-- Working at 
-  - Tata Consultancy Services
-    - Developer 
 - Studying
   - University of Pécs
     - Electrical Engineering  
