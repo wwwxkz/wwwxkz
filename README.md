@@ -7,12 +7,11 @@
     - Chemical Processes
 
 ## Languages
-- (5+ years) PHP, Python, Javascript, Shellscript, Typescript
+- (6+ years) C#, PHP, Python, Javascript, Shellscript, Typescript
 - (3+ years) Kotlin, Java
-- (2+ years) Rust, C, C++, Dart, Go
 
 ## Backend / Frontend / CMS / Mobile
-- Django, Node, Express
+- .NET Core, .NET Framework, Django, Node, Express
 - Sass, HTML5, Angular, Vue, Bootstrap, React
 - Salesforce, Wordpress, Joomla
 - Flutter, React-Native
@@ -21,8 +20,8 @@
 - Mysql, Postgresql, Mariadb, Mongodb, Sqlite, Firebase
 - Jenkins, Gitlab, Git, Jira, SVN
 
-# Rearching
-- NLP/TCS Conversa, CCTV uses and Nuclear fuel cycle with FBR/MSR
+# Domain
+- Chatbots, NLP, TCS Conversa, IBM Watson, CCTV, Aviation, Investigation, Cybersecurity, Engineering
 
 ## Stats
 <img align="center" alt="windows" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwxkz&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
