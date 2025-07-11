@@ -1,14 +1,5 @@
-# Info
-- Studying
-  - University of Pécs
-    - Electrical Engineering  
-  - UNIFATECIE
-    - Computer Engineering
-    - Chemical Processes
-
 ## Languages
-- (6+ years) C#, PHP, Python, Javascript, Shellscript, Typescript
-- (3+ years) Kotlin, Java
+- (7+ years) C#, Python, Javascript, Shellscript, Typescript
 
 ## Backend / Frontend / CMS / Mobile
 - .NET Core, .NET Framework, Django, Node, Express
@@ -17,12 +8,20 @@
 - Flutter, React-Native
 
 ## Databases / DevOps
-- Mysql, Postgresql, Mariadb, Mongodb, Sqlite, Firebase
+- SQLServer, Mysql, Postgresql, Mariadb, Mongodb, Sqlite, Firebase
 - Jenkins, Gitlab, Git, Jira, SVN
 
 # Domain
-- Chatbots, NLP, TCS Conversa, IBM Watson, CCTV, Aviation, Investigation, Cybersecurity, Engineering
+- Chatbots, NLP, TCS Conversa, IBM Watson, CCTV, Aviation, Investigation, Cybersecurity, Engineering, TELECOM, Insurance
 
+# Info
+- Graduated
+  - UNIFATECIE
+    - Computer Engineering - Bachelor - 2022/2025
+    - Chemical Processes - Bachelor - 2022/2025
+  - University of Pécs
+    - Electrical Engineering - Exchange Student - 2023/2024   
+ 
 ## Stats
 <img align="center" alt="windows" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwxkz&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 
@@ -34,5 +33,4 @@
   
 - E-mail: jobs.wxkz@gmail.com
 - Cell: +55 (11) 964665563
-- Fluent: PT, EN, ES, FR
-- Learning: HU, DE, JP
+- Fluent: PT, EN, ES
