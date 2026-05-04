@@ -2,7 +2,7 @@
 - (8+ years) C#, Python, Javascript, Typescript
 
 ## Stack
-- .NET Core, .NET Framework,
+- .NET Core, .NET Framework
 - Angular, React, Vue, Bootstrap
 
 ## Worked with
