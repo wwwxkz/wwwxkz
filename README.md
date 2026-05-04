@@ -1,30 +1,29 @@
 ## Languages
-- (7+ years) C#, Python, Javascript, Shellscript, Typescript
+- (8+ years) C#, Python, Javascript, Typescript
 
-## Backend / Frontend / CMS / Mobile
-- .NET Core, .NET Framework, Django, Node, Express
-- Sass, HTML5, Angular, Vue, Bootstrap, React
+## Stack
+- .NET Core, .NET Framework,
+- Angular, React, Vue, Bootstrap
+
+## Worked with
+- Django, Node, Express
 - Salesforce, Wordpress, Joomla
 - Flutter, React-Native
 
-## Databases / DevOps
+## Databases
 - SQLServer, Mysql, Postgresql, Mariadb, Mongodb, Sqlite, Firebase
+
+## DevOps
 - Jenkins, Gitlab, Git, Jira, SVN
 
-# Domain
-- Chatbots, NLP, TCS Conversa, IBM Watson, CCTV, Aviation, Investigation, Cybersecurity, Engineering, TELECOM, Insurance
+## Domain
+- Finance, TELECOM, Insurance, Chatbots, NLP, Cybersecurity, Blockchain, Enterprise, ERP, CMS 
 
-# Info
+## Info
 - Graduated
-  - UNIFATECIE
-    - Computer Engineering - Bachelor - 2022/2025
-    - Chemical Processes - Bachelor - 2022/2025
-  - University of Pécs
-    - Electrical Engineering - Exchange Student - 2023/2024   
+  - Computer Engineering - Bachelor
+  - CyberSecurity in Enterprise Systems - Master
  
-## Stats
-<img align="center" alt="windows" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwxkz&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-
 ## Get in touch
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-rodrigues-campos-5b338418a/)
